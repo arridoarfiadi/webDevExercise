@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+	font-size: 25px;
+}
+
+td{
+	width: 100px;
+	height: 100px;
+	
+}
+
+table {
+	margin: auto;
+}
+
+td:nth-of-type(even){
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+
+tr:nth-of-type(2) td:nth-of-type(2){
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+tr:nth-of-type(2) td:nth-of-type(odd){
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}

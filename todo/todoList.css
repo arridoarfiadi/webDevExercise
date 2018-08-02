@@ -1,0 +1,13 @@
+li {
+	border: 2px solid black
+}
+
+#test{
+	border: 2px solid red;
+}
+
+.testClass{
+	background: yellow;
+	text-decoration: line-through;
+
+}
