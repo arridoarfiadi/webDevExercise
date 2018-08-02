@@ -1,0 +1,15 @@
+body{
+		padding-top:100px;
+		
+}
+
+.jumbotron {
+	color: #2c3e50;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+}
+.img-thumbnail {
+	margin-bottom: 20px;
+}
